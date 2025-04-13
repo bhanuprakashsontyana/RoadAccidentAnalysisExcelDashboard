@@ -4,7 +4,7 @@
 The Road Accident Excel Dashboard is a data visualization tool designed to provide insights into road accidents. This dashboard aggregates and analyzes accident data, offering a user-friendly interface to explore trends, patterns, and statistics related to road safety.
 
 # Features
-- **Interactive Visualizations**: Use charts and graphs to dynamically explore accident data.
+- **Interactive Visualizations**: Used charts and graphs to dynamically explore accident data.
 - **Filtering Options**: Customize the view by filtering data based on various parameters such as location, time, and accident severity.
 - **Summary Statistics**: Access key statistics like total accidents by vehicles, road type, road surface, and more.
 - **User-Friendly Interface**: Intuitive design for easy navigation and exploration.
